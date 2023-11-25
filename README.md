@@ -9,7 +9,7 @@ Clone the GitHub repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/inception.git
+git clone https://github.com/jsoulet42/inception.git
 Usage
 Project Build
 To build the necessary Docker images and start the Docker containers:
